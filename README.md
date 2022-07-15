@@ -1,5 +1,9 @@
 <h1 align="center"> Relatório em Phyton </h1>
-
+<p align="center">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/marcellasan/relatorio-python-automa-o?style=for-the-badge">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/marcellasan/relatorio-python-automa-o?style=for-the-badge">
+<img alt="GitHub" src="https://img.shields.io/github/license/marcellasan/relatorio-python-automa-o?style=for-the-badge">
+</p>
 ## 💻 Resumo do Projeto
 
 <p>Automação de ánalise de dados e elaboração de Relatorios, enviados via e-mail</p>
