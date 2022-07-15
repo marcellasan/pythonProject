@@ -17,7 +17,7 @@
 
 
 ### 🎯 Solução para o Projeto 
-   - A demanda se trata de um relatório diário que precisa ser enviado para a diretoria diariamente. Essa tarefa é repetitiva e não agrega valor ao processo.
+   - A demanda se trata de um relatório diário que precisa ser enviado para a diretoria. Essa tarefa é repetitiva e não agrega valor ao processo.
    - A solução para o problema, é construir um código que reduza o nosso trabalho operacional, nos tornando mais eficientes.
    - O código disparará um e-mail de análise de indicadores para a diretoria automaticamente!
    
